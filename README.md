@@ -1,4 +1,6 @@
-# fetch_image
+# Cocktail Compass
+
+![Cocktail Image](https://github.com/Suwas52/Cocktail-compass/blob/main/image/cocktail.png)
 
 A new Flutter project.
 
